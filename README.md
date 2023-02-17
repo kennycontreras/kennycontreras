@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennycontreras
 - 👀 I’m interested in Programming languagues, nerd talks, cycling and weightlifting. 
-- 💞️ I’m looking to collaborate on Scala, Golang and Python projects.
+- 👨🏻‍💻 I’m looking to collaborate on Scala, Golang and Python projects.
 - 📫 How to reach me econtreras.developer@gmail.com
 
 <!---
